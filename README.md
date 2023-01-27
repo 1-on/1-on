@@ -1,6 +1,6 @@
 ### 大家好！ 我是一弦 👋
 ### Hi there I am yixian👋
-
+[![wakatime](https://wakatime.com/badge/user/bcd89b5c-a971-4a22-b959-5fb32df973ad.svg)](https://wakatime.com/@bcd89b5c-a971-4a22-b959-5fb32df973ad)
 ***
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=1-on&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
