@@ -1,13 +1,26 @@
 # Hello World 👍
 
+<!--徽章-->
+
+[![wakatime](https://wakatime.com/badge/user/bcd89b5c-a971-4a22-b959-5fb32df973ad.svg)](https://wakatime.com/@bcd89b5c-a971-4a22-b959-5fb32df973ad)
+<a href="mailto:yixian2721975880@gmail.com"><img src="https://img.shields.io/badge/<Mail>-<yixian272197@gmail.com>-<brightgreen>"></a>
+***
+
+<img align="right" alt="GIF" src="https://github.com/1-on/1-on/blob/main/pusheencode.gif" />
+
+<!--自我介绍-->
 
 ### 大家好！ 我是一弦 👋
 ### Hi there I am yixian👋
-[![wakatime](https://wakatime.com/badge/user/bcd89b5c-a971-4a22-b959-5fb32df973ad.svg)](https://wakatime.com/@bcd89b5c-a971-4a22-b959-5fb32df973ad)
-<a href="mailto:haoruilee@contact.ac.cn"><img src="https://img.shields.io/badge/<Mail>-<yixian272197@gmail.com>-<brightgreen>"></a>
+- ✨ 目前是一位大二的本科生
+- ✍️ 爱好编程、目前熟悉C、C++、Python
+- 🥾 平时无聊就来github上看看
+- 📞 可以通过<a href="mailto:yixian2721975880@gmail.com">email</a>与我联系
 ***
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=1-on&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 ***
 
