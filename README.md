@@ -24,15 +24,21 @@
 
 ***
 
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1-on">
+
+
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=1-on&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+<br>
+<br>
 
 
 
-***
 
-<span align="center">
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1-on)](https://github.com/anuraghazra/github-readme-stats)
-</span>
+<!--
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1-on)](https://github.com/anuraghazra/github-readme-stats)
+-->
 
 ***
 😁 Coding Everyday 😁
