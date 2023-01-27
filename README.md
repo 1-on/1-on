@@ -16,6 +16,12 @@
 - ✍️ 爱好编程、目前熟悉C、C++、Python
 - 🥾 平时无聊就来github上看看
 - 📞 可以通过<a href="mailto:yixian272197@gmail.com">email</a>与我联系
+
+<br>
+<br>
+<br>
+<br>
+
 ***
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=1-on&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
@@ -24,8 +30,9 @@
 
 ***
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1-on)](https://github.com/anuraghazra/github-readme-stats)
-
+<span align="center">
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1-on)](https://github.com/anuraghazra/github-readme-stats)
+</span>
 
 ***
 😁 Coding Everyday 😁
