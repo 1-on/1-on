@@ -6,7 +6,7 @@
 <a href="mailto:yixian272197@gmail.com"><img src="https://img.shields.io/badge/<Mail>-<yixian272197@gmail.com>-<brightgreen>"></a>
 ***
 
-<img align="right" alt="GIF" src="https://github.com/1-on/1-on/blob/main/pusheencode.gif" />
+<img align="right" alt="GIF" src="https://github.com/1-on/1-on/raw/main/1.gif" />
 
 <!--自我介绍-->
 
@@ -17,11 +17,7 @@
 - 🥾 平时无聊就来github上看看
 - 📞 可以通过<a href="mailto:yixian272197@gmail.com">email</a>与我联系
 
-<br>
-<br>
-<br>
-<br>
-<br>
+
 
 ***
 
