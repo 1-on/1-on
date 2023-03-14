@@ -42,13 +42,13 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 05 March 2023 - To: 12 March 2023
+From: 06 March 2023 - To: 13 March 2023
 
-Total Time: 6 hrs 44 mins
+Total Time: 6 hrs 45 mins
 
-Java          3 hrs 13 mins   ████████████░░░░░░░░░░░░░   47.88 %
-C++           2 hrs 19 mins   ████████▓░░░░░░░░░░░░░░░░   34.45 %
-Python        56 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.02 %
+Java          3 hrs 13 mins   ████████████░░░░░░░░░░░░░   47.79 %
+C++           2 hrs 20 mins   ████████▓░░░░░░░░░░░░░░░░   34.57 %
+Python        56 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.00 %
 HTML          10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.56 %
 Kotlin        3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.94 %
 IDEA_MODULE   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
