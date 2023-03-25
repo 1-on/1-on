@@ -42,16 +42,16 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 16 March 2023 - To: 23 March 2023
+From: 17 March 2023 - To: 24 March 2023
 
-Total Time: 10 hrs 32 mins
+Total Time: 11 hrs 12 mins
 
-C++              9 hrs 13 mins   ██████████████████████░░░   87.57 %
-Java             1 hr 13 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.61 %
-C                2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
-ObjectiveC       2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
-GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
-Markdown         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+C++              9 hrs 13 mins   ████████████████████▓░░░░   82.36 %
+Java             1 hr 50 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.46 %
+Markdown         3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
+C                2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
+ObjectiveC       2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
+GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 ```
 
 <!--END_SECTION:waka-->
