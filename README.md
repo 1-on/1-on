@@ -42,16 +42,16 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 29 March 2023 - To: 05 April 2023
+From: 30 March 2023 - To: 06 April 2023
 
-Total Time: 11 hrs 35 mins
+Total Time: 8 hrs 29 mins
 
-HTML             4 hrs 28 mins   █████████▓░░░░░░░░░░░░░░░   38.67 %
-C++              3 hrs 18 mins   ███████░░░░░░░░░░░░░░░░░░   28.55 %
-Java             1 hr 51 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.00 %
-Python           1 hr 23 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.01 %
-Markdown         30 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 %
-YAML             1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
+HTML             2 hrs 50 mins   ████████▒░░░░░░░░░░░░░░░░   33.42 %
+C++              2 hrs 2 mins    ██████░░░░░░░░░░░░░░░░░░░   23.97 %
+Java             1 hr 51 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.83 %
+Python           1 hr 13 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.37 %
+Markdown         30 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.89 %
+YAML             1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
 ```
 
 <!--END_SECTION:waka-->
