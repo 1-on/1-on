@@ -42,12 +42,13 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 01 April 2023 - To: 08 April 2023
+From: 02 April 2023 - To: 09 April 2023
 
-Total Time: 4 hrs 9 mins
+Total Time: 6 hrs 30 mins
 
-Java   2 hrs 11 mins   █████████████▒░░░░░░░░░░░   52.94 %
-C++    1 hr 57 mins    ███████████▓░░░░░░░░░░░░░   47.06 %
+C++          4 hrs 18 mins   ████████████████▓░░░░░░░░   66.12 %
+Java         2 hrs 11 mins   ████████▒░░░░░░░░░░░░░░░░   33.78 %
+ObjectiveC   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
 ```
 
 <!--END_SECTION:waka-->
