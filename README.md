@@ -42,13 +42,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 14 April 2023 - To: 21 April 2023
+From: 15 April 2023 - To: 22 April 2023
 
-Total Time: 1 hr 32 mins
+Total Time: 1 hr 30 mins
 
-Java       1 hr 30 mins    ████████████████████████▒   97.21 %
-Markdown   2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.69 %
-Python     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
+Java   1 hr 30 mins    █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
