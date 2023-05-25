@@ -42,14 +42,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 16 May 2023 - To: 23 May 2023
+From: 17 May 2023 - To: 24 May 2023
 
-Total Time: 5 hrs 31 mins
+Total Time: 8 hrs 44 mins
 
-Python           3 hrs 3 mins    ██████████████░░░░░░░░░░░   55.39 %
-Java             2 hrs 10 mins   ██████████░░░░░░░░░░░░░░░   39.39 %
-C++              16 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.91 %
-GitIgnore file   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
+Python           6 hrs 17 mins   ██████████████████░░░░░░░   71.86 %
+Java             2 hrs 10 mins   ██████▒░░░░░░░░░░░░░░░░░░   24.85 %
+C++              16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.10 %
+GitIgnore file   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
 CMakeLists.txt   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
