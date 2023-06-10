@@ -42,13 +42,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 June 2023 - To: 08 June 2023
+From: 02 June 2023 - To: 09 June 2023
 
-Total Time: 22 hrs 6 mins
+Total Time: 26 hrs 15 mins
 
-Java             21 hrs 57 mins  █████████████████████████   99.37 %
-GitIgnore file   8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
-IDEA_MODULE      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+Java             25 hrs 53 mins  ████████████████████████▓   98.57 %
+C++              8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
+GitIgnore file   8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
+Python           4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
+SQL              1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
 ```
 
 <!--END_SECTION:waka-->
