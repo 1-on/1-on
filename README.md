@@ -12,8 +12,8 @@
 
 ### 大家好！ 我是一弦 👋
 ### Hi there I am yixian👋
-- ✨ 目前是一位大二的本科生
-- ✍️ 爱好编程、目前掌握的编程语言C、C++、Python
+- ✨ 目前是一位大三的本科生
+- ✍️ 爱好编程、目前掌握的编程语言C、C++、Python、java
 - 🥾 平时无聊就来github上看看
 - 📞 可以通过<a href="mailto:yixian272197@gmail.com">email</a>与我联系
 
