@@ -42,15 +42,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 October 2023 - To: 04 November 2023
+From: 29 October 2023 - To: 05 November 2023
 
-Total Time: 1 hr 28 mins
+Total Time: 5 hrs 36 mins
 
-Java             35 mins         ██████████▒░░░░░░░░░░░░░░   40.70 %
-Bash             33 mins         █████████▒░░░░░░░░░░░░░░░   37.44 %
-Python           16 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.63 %
-textmate         2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.47 %
-GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 %
+Java              3 hrs 37 mins   ████████████████░░░░░░░░░   64.52 %
+Bash              33 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.81 %
+Vue.js            32 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.57 %
+JavaScript        28 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.50 %
+Python            17 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.33 %
 ```
 
 <!--END_SECTION:waka-->
