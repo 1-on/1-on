@@ -42,14 +42,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 November 2023 - To: 30 November 2023
+From: 24 November 2023 - To: 01 December 2023
 
-Total Time: 4 hrs 50 mins
+Total Time: 4 hrs 26 mins
 
-Vue.js       3 hrs 23 mins   █████████████████▒░░░░░░░   69.90 %
-Java         1 hr 3 mins     █████▒░░░░░░░░░░░░░░░░░░░   21.79 %
-XML          15 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.48 %
-JavaScript   7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.74 %
+Vue.js       3 hrs 4 mins    █████████████████▒░░░░░░░   69.31 %
+Java         58 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.86 %
+XML          15 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.98 %
+JavaScript   7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.76 %
 JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
 ```
 
