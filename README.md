@@ -42,15 +42,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 December 2023 - To: 10 December 2023
+From: 04 December 2023 - To: 11 December 2023
 
-Total Time: 14 hrs 32 mins
+Total Time: 15 hrs 42 mins
 
-Vue.js            9 hrs 6 mins    ███████████████▓░░░░░░░░░   62.65 %
-Java              2 hrs 40 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.38 %
-JavaScript        1 hr 10 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.08 %
-XML               27 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.10 %
-GitIgnore file    16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.85 %
+Vue.js            7 hrs 1 min     ███████████▒░░░░░░░░░░░░░   44.74 %
+Java              6 hrs 3 mins    █████████▓░░░░░░░░░░░░░░░   38.53 %
+JavaScript        54 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.78 %
+XML               52 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.62 %
+GitIgnore file    13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.40 %
 ```
 
 <!--END_SECTION:waka-->
