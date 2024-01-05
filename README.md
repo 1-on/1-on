@@ -42,15 +42,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 December 2023 - To: 03 January 2024
+From: 28 December 2023 - To: 04 January 2024
 
-Total Time: 3 mins
+Total Time: 0 secs
 
-Vue.js       2 mins          █████████████████▒░░░░░░░   69.67 %
-YAML         0 secs          ██████▒░░░░░░░░░░░░░░░░░░   25.00 %
-JavaScript   0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 %
-Java         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.47 %
-XML          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
