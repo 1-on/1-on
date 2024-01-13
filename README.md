@@ -42,15 +42,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 January 2024 - To: 11 January 2024
+From: 05 January 2024 - To: 12 January 2024
 
-Total Time: 6 hrs 52 mins
+Total Time: 12 hrs 51 mins
 
-Java             4 hrs 58 mins   ██████████████████░░░░░░░   72.37 %
-XML              1 hr            ███▓░░░░░░░░░░░░░░░░░░░░░   14.54 %
-JSON             42 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.24 %
-TypeScript       5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.45 %
-Vue.js           3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.85 %
+Java             5 hrs 51 mins   ███████████▒░░░░░░░░░░░░░   45.60 %
+Vue.js           2 hrs 50 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.08 %
+TypeScript       1 hr 41 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.17 %
+XML              1 hr 30 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.77 %
+JSON             43 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.58 %
 ```
 
 <!--END_SECTION:waka-->
