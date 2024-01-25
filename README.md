@@ -42,15 +42,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 January 2024 - To: 23 January 2024
+From: 17 January 2024 - To: 24 January 2024
 
-Total Time: 20 hrs 35 mins
+Total Time: 24 hrs 14 mins
 
-Java                  10 hrs 44 mins  █████████████░░░░░░░░░░░░   52.19 %
-TypeScript            6 hrs 36 mins   ████████░░░░░░░░░░░░░░░░░   32.08 %
-XML                   43 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 %
-HTTP Request          38 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.15 %
-JSON                  35 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.91 %
+Java                  12 hrs 18 mins  ████████████▓░░░░░░░░░░░░   50.77 %
+TypeScript            7 hrs 54 mins   ████████░░░░░░░░░░░░░░░░░   32.63 %
+XML                   1 hr 11 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.89 %
+JSON                  45 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.10 %
+HTTP Request          38 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.67 %
 ```
 
 <!--END_SECTION:waka-->
