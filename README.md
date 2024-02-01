@@ -42,15 +42,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 January 2024 - To: 30 January 2024
+From: 24 January 2024 - To: 31 January 2024
 
-Total Time: 28 hrs 3 mins
+Total Time: 25 hrs 23 mins
 
-Java             15 hrs 55 mins  ██████████████▒░░░░░░░░░░   56.77 %
-Vue.js           6 hrs 38 mins   ██████░░░░░░░░░░░░░░░░░░░   23.70 %
-TypeScript       2 hrs 27 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.79 %
-YAML             35 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.13 %
-Docker           33 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.00 %
+Java             15 hrs 20 mins  ███████████████░░░░░░░░░░   60.42 %
+Vue.js           6 hrs 38 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.18 %
+TypeScript       1 hr 9 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 %
+Docker           33 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.19 %
+SQL              28 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.87 %
 ```
 
 <!--END_SECTION:waka-->
