@@ -42,15 +42,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 April 2024 - To: 17 April 2024
+From: 11 April 2024 - To: 18 April 2024
 
-Total Time: 1 hr 19 mins
+Total Time: 54 mins
 
-C++                51 mins         ████████████████░░░░░░░░░   64.36 %
-Python             20 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.68 %
-CMake              2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.89 %
-JavaScript         2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.71 %
-Jupyter            1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.62 %
+C++     51 mins         ███████████████████████▓░   94.19 %
+CMake   2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 %
+C       0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.58 %
 ```
 
 <!--END_SECTION:waka-->
