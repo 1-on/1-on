@@ -42,11 +42,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 April 2024 - To: 04 May 2024
+From: 28 April 2024 - To: 05 May 2024
 
-Total Time: 1 hr 5 mins
+Total Time: 1 hr 9 mins
 
-C++   1 hr 5 mins     █████████████████████████   100.00 %
+C++          1 hr 5 mins     ███████████████████████▒░   93.78 %
+Vue.js       4 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.21 %
+JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
