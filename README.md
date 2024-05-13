@@ -42,15 +42,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 May 2024 - To: 11 May 2024
+From: 05 May 2024 - To: 12 May 2024
 
-Total Time: 36 mins
+Total Time: 32 mins
 
-Vue.js       27 mins         ██████████████████▓░░░░░░   74.58 %
-Python       7 mins          █████░░░░░░░░░░░░░░░░░░░░   19.81 %
-Text         1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 %
-JSON         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.98 %
-JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+Vue.js       22 mins         █████████████████▓░░░░░░░   71.17 %
+Python       7 mins          █████▓░░░░░░░░░░░░░░░░░░░   22.50 %
+Text         1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 %
+JSON         0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.25 %
+JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
