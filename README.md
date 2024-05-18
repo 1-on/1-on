@@ -42,15 +42,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 May 2024 - To: 16 May 2024
+From: 10 May 2024 - To: 17 May 2024
 
-Total Time: 28 mins
+Total Time: 26 mins
 
-Python           18 mins         ████████████████▒░░░░░░░░   65.96 %
-C++              6 mins          ██████░░░░░░░░░░░░░░░░░░░   23.39 %
-GitIgnore file   1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   04.97 %
-CMake            1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 %
-Vue.js           0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.73 %
+Python           17 mins         ████████████████▒░░░░░░░░   65.70 %
+C++              6 mins          ██████▒░░░░░░░░░░░░░░░░░░   24.83 %
+GitIgnore file   1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.27 %
+CMake            1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 %
 ```
 
 <!--END_SECTION:waka-->
