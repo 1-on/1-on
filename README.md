@@ -42,14 +42,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 May 2024 - To: 19 May 2024
+From: 13 May 2024 - To: 20 May 2024
 
-Total Time: 26 mins
+Total Time: 0 secs
 
-Python           17 mins         ████████████████▒░░░░░░░░   65.70 %
-C++              6 mins          ██████▒░░░░░░░░░░░░░░░░░░   24.83 %
-GitIgnore file   1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.27 %
-CMake            1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 %
+C++   0 secs          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
